@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/NirmaniWarakaulla/NirmaniWarakaulla/blob/main/Untitled.png)
+![MasterHead](https://github.com/NirmaniWarakaulla/NirmaniWarakaulla/blob/main/Untitled%20(1).png)
 
 ### Hi there I am Nirmani Warakaulla 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
