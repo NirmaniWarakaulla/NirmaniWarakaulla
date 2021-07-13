@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/946/648/non_2x/abstract-black-banner-design-with-blue-neon-glowing-light-modern-futuristic-background-free-vector.jpg)
 
 ### Hi there I am Nirmani Warakaulla 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
