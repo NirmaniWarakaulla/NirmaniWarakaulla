@@ -2,7 +2,7 @@
 
 🎓I am an undergraduate student at the University of Moratuwa
 
-🔭 I’m currently developing my final year project.
+🔭 I’m currently developing my final year project.<br>
 🌱 I’m currently learning Natural Language Processing.
 👯 I’m looking to collaborate with anyone on any project.
 💬 Ask me about anything
