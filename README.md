@@ -46,6 +46,7 @@
 
 ## 📘 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [Preprocessing - Stop Words Removing](https://dev.to/nirmaniwarakaulla/preprocessing-stop-words-removing-1m1f)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Stats:
