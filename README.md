@@ -61,7 +61,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/nirmaniwarakaulla"
+          feed_list: "https://dev.to/nirmaniwarakaulla"
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Stats:
