@@ -1,4 +1,6 @@
 ### Hi there I am Nirmani Warakaulla 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
+[![Github](https://img.shields.io/github/followers/NirmaniWarakaulla?label=Follow&style=social)](https://github.com/NirmaniWarakaulla)
 
 🎓I am an undergraduate student at the University of Moratuwa
 
