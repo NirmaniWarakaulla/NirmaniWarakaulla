@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/NirmaniWarakaulla/NirmaniWarakaulla/blob/main/free-banner-vector-graphics_32119.jpg)
+![MasterHead](https://github.com/NirmaniWarakaulla/NirmaniWarakaulla/blob/main/a.jpg)
 
 ### Hi there I am Nirmani Warakaulla 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
