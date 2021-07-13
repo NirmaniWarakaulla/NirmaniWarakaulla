@@ -46,22 +46,6 @@
 
 ## 📘 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-<!-- name: Latest blog post workflow
-on:
-  schedule:
-    # Runs at every 2 days
-    - cron: '0 0 */2 * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/nirmaniwarakaulla" -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Stats:
