@@ -4,6 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
 [![Github](https://img.shields.io/github/followers/NirmaniWarakaulla?label=Follow&style=social)](https://github.com/NirmaniWarakaulla)
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 🎓I am an undergraduate student at the University of Moratuwa
 
 🔭 I’m currently developing my final year project.<br>
