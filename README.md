@@ -27,10 +27,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-📘 Blog posts:
+## 📘 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 name: Latest blog post workflow
 on:
   schedule:
@@ -47,8 +45,9 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/nirmaniwarakaulla"
-          
- 🏆 My Github Stats:
+<!-- BLOG-POST-LIST:END -->
+
+## 🏆 My Github Stats:
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmaniWarakaulla&show_icons=true&theme=tokyonight)
  
