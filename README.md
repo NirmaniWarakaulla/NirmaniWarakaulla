@@ -46,7 +46,7 @@
 
 ## 📘 Blog posts:
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
+<!-- name: Latest blog post workflow
 on:
   schedule:
     # Runs at every 2 days
@@ -61,7 +61,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/nirmaniwarakaulla"
+          feed_list: "https://dev.to/feed/nirmaniwarakaulla" -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 My Github Stats:
