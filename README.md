@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/946/648/non_2x/abstract-black-banner-design-with-blue-neon-glowing-light-modern-futuristic-background-free-vector.jpg)
+![MasterHead](https://github.com/NirmaniWarakaulla/NirmaniWarakaulla/blob/main/free-banner-vector-graphics_32119.jpg)
 
 ### Hi there I am Nirmani Warakaulla 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=NirmaniWarakaulla.NirmaniWarakaulla)
