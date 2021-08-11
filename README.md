@@ -46,6 +46,7 @@
 
 ## 📘 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [Python Foundation with Data Structures & Algorithms - Part 02](https://dev.to/nirmaniwarakaulla/python-foundation-with-data-structures-algorithms-part-02-1ecd)
 - [Python Foundation with Data Structures & Algorithms - Part 01](https://dev.to/nirmaniwarakaulla/python-foundation-with-data-structures-algorithms-part-01-31ld)
 - [Preprocessing - Stop Words Removing](https://dev.to/nirmaniwarakaulla/preprocessing-stop-words-removing-1m1f)
 <!-- BLOG-POST-LIST:END -->
