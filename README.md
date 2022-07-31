@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-🎓I am an undergraduate student at the University of Moratuwa
+🎓I am an undergraduate student at the University of Moratuwa | UI/UX Engineer
 
-🔭 I’m seeking for a opportunity in the field of IT.<br>
-🌱 I’m currently learning Python.<br>
+🔭 I’m passionating about UI/UX.<br>
+🌱 I’m currently learning Angular.<br>
 👯 I’m looking to collaborate with anyone on any project.<br>
 💬 Ask me about anything.<br>
-⚡ Fun fact: I love writing and creating contents.<br>
+⚡ Fun fact: I love writing poems and doing arts.<br>
 
 
 ## ✉️ Find me on:
