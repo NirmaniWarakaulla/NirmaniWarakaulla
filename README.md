@@ -53,6 +53,10 @@
 - [Preprocessing - Stop Words Removing](https://dev.to/nirmaniwarakaulla/preprocessing-stop-words-removing-1m1f)
 <!-- BLOG-POST-LIST:END -->
 
+## 🏆 My Batches:
+
+[![@nirmani's Holopin board](https://holopin.me/nirmani)](https://holopin.io/@nirmani)
+
 ## 🏆 My Github Stats:
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmaniWarakaulla&show_icons=true&theme=tokyonight)
